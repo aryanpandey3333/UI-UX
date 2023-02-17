@@ -11,4 +11,4 @@ Workflow Design: The workflow should be designed to streamline the process of bu
 
 To design a dashboard for the employees of Webmarkia to manage orders on the admin side, the following deliverables can be designed:
 
-#. Admin Dashboard: The admin dashboard should be designed to manage orders from clients. It should include a list of orders, along with their status and progress. The dashboard should also include a feature to manage user accounts and access levels, to ensure that only authorized personnel have access to the dashboard. Additionally, the dashboard should include a reporting feature to generate reports on the performance of the web development services offered by Webmarkia.
+Admin Dashboard: The admin dashboard should be designed to manage orders from clients. It should include a list of orders, along with their status and progress. The dashboard should also include a feature to manage user accounts and access levels, to ensure that only authorized personnel have access to the dashboard. Additionally, the dashboard should include a reporting feature to generate reports on the performance of the web development services offered by Webmarkia.
