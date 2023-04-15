@@ -1,7 +1,4 @@
-# TradeMarkia
-Task Given: - WebMarkia
-
-To design a landing page for Webmarkia to sell their web development services, the following deliverables can be designed:
+Task Given: - To design a landing page for a business to sell their web development services, the following deliverables can be designed:
 
 Landing Page: The landing page should be designed to showcase Webmarkia's web development services. It should include a clear and concise value proposition, along with a list of services and features offered. The landing page should be visually appealing and optimized for conversions, with prominent calls to action to encourage users to sign up for Webmarkia's services. Additionally, the landing page should be responsive and mobile-friendly to ensure a seamless user experience across all devices.
 
